@@ -1,0 +1,6 @@
+top: 10%;
+	left: 100%;
+	background-color: yellow;
+	width: 100px;
+	height: 300px;
+	display: block;
