@@ -1,0 +1,131 @@
+body{
+	background-color: black;
+}
+
+#ktjlogo{
+	position: absolute;
+	left: 2%;
+	top: 2%;
+	margin: 1%;
+}
+
+div p{
+	color: white;
+	position: absolute;
+	left: 8%;
+	top: 12%;
+	margin:1%;
+	font-size: 100%;
+}
+
+
+#navbar{
+	position: absolute;
+	display: inline-block;
+	left: 40%;
+	width: 50%;
+	font-size: 150%;
+	color: white;
+	background-color: green;
+}
+
+
+#navbar li{
+	display: inline-block;
+	margin-right: 1%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: blue;
+}
+
+#navbar a{
+	color: white;
+	text-decoration: none;
+}
+
+#heading{
+	position: absolute;
+	color: white;
+	font-size: 250%;
+	top: 6%;
+	left: 41%;
+	margin: 1%;
+}
+
+#maindiv{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	width: 40%;
+	height: 60%;
+	background-color: red;
+	color: white;
+	margin: 1%;
+}
+
+#login{
+	position: absolute;
+	margin: 1%;
+	top: 25%;
+	font-size: 120%;
+	transform:rotate(-90deg);
+	transform-origin:left top 0;
+	float: left;
+	background-color: green;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#log{
+	color: white;
+	text-decoration: none;
+}
+
+
+#content{
+	background-color: green;
+	position: absolute;
+	top: 7%;
+	left: 7%;
+	width: 90%;
+	height: 90%;
+	margin: 1%;
+}
+#first{
+	position: absolute;
+	top: 3%;
+	left: 3%;
+	padding: 1%;
+	margin:1%;
+
+}
+
+#second{
+	position: absolute;
+	top: 18%;
+	left: 0%;
+	margin: 1%;
+	padding: 5%;
+}
+
+#signup{
+	position: absolute;
+	bottom: 1%;
+	right: 1%;
+	background-color: green;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	transform:rotate(90deg);
+	transform-origin:bottom right 0;
+}
+
+#signup a{
+	color: white;
+	text-decoration: none;
+}
